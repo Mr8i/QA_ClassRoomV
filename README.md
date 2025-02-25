@@ -5,6 +5,7 @@ Overview
 This command-line application integrates data from the PokéAPI with a local SQLite database. Users can fetch detailed Pokémon information from the API, view stored records, search, update, or delete records—all through a user-friendly CLI.
 
 
+
 Features
 
 •	Fetch Pokémon Data from API:
